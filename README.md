@@ -171,4 +171,4 @@ Merci à tous les contributeurs, testeurs et à la communauté Python/Binance/Te
 
 ---
 
-**Bonne chance et bon trading !** 🚀📈
+**Bonne chance et bon trading !** 🚀📈# Titanium
